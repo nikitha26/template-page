@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    background-image: url('img/landscape-4346633_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: 100%;
+    min-height: 600px;
+}
+h2{
+    color:white;
+    margin-top: 300px;
+}
